@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[100.0, 6.0], [101.0, 6.0], [101.0, 5.0], [100.0, 5.0], [100.0, 6.0]]]
+      },
+      "properties": {
+        "name": "Penang",
+        "state_code": "PG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[101.0, 3.5], [102.0, 3.5], [102.0, 3.0], [101.0, 3.0], [101.0, 3.5]]]
+      },
+      "properties": {
+        "name": "Selangor",
+        "state_code": "SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[102.0, 2.5], [103.0, 2.5], [103.0, 2.0], [102.0, 2.0], [102.0, 2.5]]]
+      },
+      "properties": {
+        "name": "Johor",
+        "state_code": "JH"
+      }
+    }
+  ]
+}
